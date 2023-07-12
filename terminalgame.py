@@ -1,2 +1,6 @@
 class Nada:
-    pass
+    nothing = "nothing is here!"
+
+oneVar = Nada()
+
+print(oneVar.nothing)
